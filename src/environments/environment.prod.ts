@@ -10,7 +10,7 @@ export const environment = {
     logoUrl: '',
   },
   oAuthConfig: {
-    issuer: 'http://khalidanta-001-site1.dtempurl.com',
+    issuer: 'http://saguiraukoman-001-site1.gtempurl.com',
     redirectUri: baseUrl,
     clientId: 'BookStore_App',
     responseType: 'code',
@@ -19,7 +19,7 @@ export const environment = {
   },
   apis: {
     default: {
-      url: 'http://khalidanta-001-site1.dtempurl.com',
+      url: 'http://saguiraukoman-001-site1.gtempurl.com',
       rootNamespace: 'Acme.BookStore',
     },
   },
